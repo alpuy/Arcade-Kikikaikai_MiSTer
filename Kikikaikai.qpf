@@ -1,0 +1,4 @@
+QUARTUS_VERSION = "17.0"
+# Kikikaikai_stp is the instrumented revision (ISSP probes, OSD debug page); Kikikaikai the release.
+PROJECT_REVISION = "Kikikaikai_stp"
+PROJECT_REVISION = "Kikikaikai"
