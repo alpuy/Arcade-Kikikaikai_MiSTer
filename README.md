@@ -97,6 +97,7 @@ Standard [Template_MiSTer](https://github.com/MiSTer-devel/Template_MiSTer) stru
 - **Jose Tejada (jotego)** for the vendored `jt03` YM2203 core.
 - The **`Arcade-KickAndRun_MiSTer`** project, whose repository is the source this project
   vendored `tv80`, `jt03`, and the M6801 CPU core from.
+- **Claude** (Anthropic), used as a development assistant throughout this project.
 
 ## License
 
